@@ -1,1 +1,1 @@
-# CNN-Filtering-with-TF
+Lets play with CNN. Exploring all the features 
